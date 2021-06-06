@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Cinema</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title">Title</string>
+    <string name="originalLanguage">Language</string>
+    <string name="release">Release</string>
+    <string name="rating">rating</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_search">Search</string>
+    <string name="movie_catalogue">Movie Cinema</string>
+    <string name="description">Find your favorite movie</string>
+    <string name="date_release">Date Release</string>
+    <string name="popularity">Popularity Rate</string>
+    <string name="overview">Overview</string>
+    <string name="fav_button">fav_button</string>
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+    <string name="highpopular">High Popular</string>
+    <string name="search_movie">Search Movie</string>
+</resources>
